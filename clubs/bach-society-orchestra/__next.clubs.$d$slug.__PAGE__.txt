@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[46276,["/_next/static/chunks/02xc_ccd0x0mb.js","/_next/static/chunks/0_r_5jylv5x30.js","/_next/static/chunks/20iolo-o3sknj.js"],"ClientRedirect"]
+3:I[50379,["/_next/static/chunks/02xc_ccd0x0mb.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[50379,["/_next/static/chunks/02xc_ccd0x0mb.js"],"ViewportBoundary"]
+9:I[50379,["/_next/static/chunks/02xc_ccd0x0mb.js"],"MetadataBoundary"]
+a:I[68920,["/_next/static/chunks/02xc_ccd0x0mb.js"],"IconMark"]
+c:I[17273,["/_next/static/chunks/02xc_ccd0x0mb.js"],"default"]
+d:I[99151,["/_next/static/chunks/02xc_ccd0x0mb.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"sVM3t1FzafaWUTC-gPF0I","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/clubs/harvard-bach-society-orchestra/"}],[["$","script","script-0",{"src":"/_next/static/chunks/0_r_5jylv5x30.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/20iolo-o3sknj.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#09090b","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Moved · hclubs"}],["$","meta","1",{"name":"description","content":"Search, compare, and join Harvard student organizations: what they do, how to join, deadlines, and time commitment."}],["$","meta","2",{"name":"application-name","content":"hclubs"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"property":"og:title","content":"hclubs — every Harvard student club"}],["$","meta","5",{"property":"og:description","content":"Search, compare, and join Harvard student organizations: what they do, how to join, deadlines, and time commitment."}],["$","meta","6",{"property":"og:site_name","content":"hclubs"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://hclubs.app/og/site.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"hclubs — every Harvard student club: how to join, deadlines, time commitment"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"hclubs — every Harvard student club"}],["$","meta","16",{"name":"twitter:description","content":"Search, compare, and join Harvard student organizations: what they do, how to join, deadlines, and time commitment."}],["$","meta","17",{"name":"twitter:image","content":"https://hclubs.app/og/site.png"}],["$","meta","18",{"name":"twitter:image:alt","content":"hclubs — every Harvard student club: how to join, deadlines, time commitment"}],["$","meta","19",{"name":"twitter:image:type","content":"image/png"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.21wk46vk4lcd1.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.1h0c19vg4v4as.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2lm4gn_gln74v.png","sizes":"180x180","type":"image/png"}],["$","$La","25",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+12:true
+7:300
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
